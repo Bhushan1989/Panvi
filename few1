@@ -1,5 +1,8 @@
 hello 
-we are woring under git and github 
+we are working under git and github
+  {
 * working area
-* staging area
-* repository area
+}
+  {* staging area
+    * repository area
+}
